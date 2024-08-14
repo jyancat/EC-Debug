@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "EC Debug")(type "KiCad")(uri "${KIPRJMOD}/Footprints_Symbols/EC Debug.kicad_sym")(options "")(descr ""))
+)
